@@ -9,8 +9,8 @@
 #include "timers/Timer.h"
 #include "camera/Camera.h"
 #include "pathing/Pathfinding.h"
-#include <../../../../Isometric/Dependencies/SDL/include/SDL_mixer.h>
-#include <../../../../Isometric/Dependencies/SDL/include/SDL_ttf.h>
+#include <SDL_mixer.h>
+#include <SDL_ttf.h>
 #include <stdio.h>
 #include <fstream>
 #include <time.h>

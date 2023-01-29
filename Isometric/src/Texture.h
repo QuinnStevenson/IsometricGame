@@ -1,7 +1,7 @@
 #pragma once
 
 #include "constants.h"
-#include <../../../../Isometric/Dependencies/SDL/include/SDL_ttf.h>
+#include<SDL_ttf.h>
 
 class Texture
 {
